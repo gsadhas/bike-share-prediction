@@ -2,5 +2,5 @@ Prediction bike share using simple neural network. Neural network was implemente
 
 
 # How to run
-- [dnn.py](../blob/master/dnn.py) file contains necessary forward, backpropagation, train and inference modules
+- [dnn.py](../master/dnn.py) file contains necessary forward, backpropagation, train and inference modules
 - Please check the notebook that includes detailed steps to build, train and analysis the network
